@@ -4,7 +4,6 @@
 - 🔭 ...
 - 🌱 I’m learning full-stack web development
 - 📫 How to reach me: vishalsharma952877@gmail.com
-- 😄 Pronouns: He/Him
 
 ---
 <h2>🌐 Socials:</h2>
