@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vishal Sharma
 ### I’m a Developer, Designer & Learner 🚀
 
-- 🔭 ...
+- 🔭 ....
 - 🌱 I’m learning MERN-Stack development
 - 📫 How to reach me: vishalsharma952877@gmail.com
 
