@@ -50,10 +50,11 @@
 ---
 <h2>📊 GitHub Stats:</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vishal-Sharma-6033&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=percentile)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Sharma-6033&theme=tokyonight&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Sharma-6033&layout=compact&theme=tokyonight&hide_border=false)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vishal-Sharma-6033&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishal-Sharma-6033&layout=compact&theme=tokyonight)
 
 ---
