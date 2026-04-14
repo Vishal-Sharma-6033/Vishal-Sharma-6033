@@ -18,7 +18,7 @@
 <p> <a href="https://leetcode.com/u/Vishal_Sharma_6033/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> </a> </p>
 
 ---
-<h2>💻 Tech Stack:</h2>
+<h2>💻 Tech  Stack:</h2>
 🖥️ Programming Languages
 
 <p> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </p>
