@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-sharma-a49603315/)
 <p> <a href="https://leetcode.com/u/Vishal_Sharma_6033/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/> </a> </p>
-
+ 
 ---
 <h2>💻 Tech  Stack:</h2>
 🖥️ Programming Languages
