@@ -77,14 +77,6 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishal-Sharma-6033&show_icons=true&theme=tokyonight" />
-  
-  <br/><br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Sharma-6033&layout=compact&theme=tokyonight" />
-  
-  <br/><br/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal-Sharma-6033&theme=tokyonight&hide_border=false" />
 
 </div>
