@@ -11,12 +11,7 @@
 
 ### 🚀 About Me      
 
-- 🔭 Currently working on **MERN Stack Projects & Real-world Applications**
-- 🌱 Exploring **Full Stack Development (MongoDB, Express, React, Node.js)**
-- 💡 Passionate about **Problem Solving, Clean UI & Scalable Applications**
-- 🧠 Actively improving **DSA & Development Skills**
-- 🎯 Goal: To become a **Top Software Engineer in a Product-Based Company**
-- 📫 Reach me at: **vishalsharma952877@gmail.com**
+MERN Stack Developer with production-level experience in Node.js backend engineering, React.js frontend development, and MongoDB database design. Proficient in Git-based version control workflows and experienced in leveraging AI-assisted development tools (Claude, GitHub Copilot) to accelerate coding and debugging. Actively exploring AI API integration and prompt engineering, with demonstrated ability to build scalable, real-world full-stack applications and collaborate effectively within technical teams.
 
 ---
 
