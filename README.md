@@ -32,11 +32,19 @@ MERN Stack Developer with production-level experience in Node.js backend enginee
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge)
 
-#### 🗃️ Database
+#### 🗃️ Database & Caching
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🎨 Tools & Design
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+#### 🏗️ Architecture & Concepts
+![System Design](https://img.shields.io/badge/-System%20Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+
+#### 🎨 Tools & Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
