@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vishal Sharma </h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast 🚀</h3>
+<h3 align="center">Aspiring Software Developer | Full Stack Develope {MERN Stack} Enthusiast 🚀</h3>
 
 ---
 
